@@ -1,2 +1,2 @@
-# new-projecct
+# hello world c++
 simple project
